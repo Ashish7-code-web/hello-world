@@ -1,8 +1,5 @@
 # hello-world
 
-"Hii , my name is Ashish Kumar Jena.I come from Rourkela,ODISHA. I have done my graduation from GIET University,GUNUPUR under the branch of
-Computer Science and Engineering with specialization of AI & ML and my main areas of interest are Python, AI&ML, and AI tools .
-I would describe myself as self-motivated, Hardworking, and adaptable person. I enjoy playing football, travelling and listening to music.
-I am always eager to learn new skills , and grow professionally.
+Hi, my name is Ashish Kumar Jena from Rourkela, Odisha. I graduated in Computer Science and Engineering (AI & ML specialization) from GIET University, Gunupur. Currently, I am working as a Data Scientist Intern at Ramansoft Consulting Services. My areas of interest include Python, AI & ML, and AI tools. I am self-motivated, hardworking, and adaptable. In my free time, I enjoy playing football, traveling, and listening to music. I am always eager to learn new skills and grow professionally.
 
-Thank you."
+Thank you.
